@@ -1,0 +1,29 @@
+2019-03-11 10:33:18 - PHP Warning:  file_get_contents(https://api.instagram.com/v1/users/3192164486/media/recent/?access_token=3192164486.1677ed0.d75b38532af44bd0a44dce5ebbbc6e11&amp;count=7): failed to open stream: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in D:\xampp\htdocs\lampeledning\catalog\controller\extension\module\pavobuilder\inc\widgets\instagram.php on line 258
+2019-03-11 10:38:52 - PHP Notice:  Undefined variable: file in D:\xampp\htdocs\lampeledning\admin\controller\extension\module\pavothemer.php on line 2300
+2019-03-11 10:38:52 - PHP Notice:  Undefined variable: file in D:\xampp\htdocs\lampeledning\admin\controller\extension\module\pavothemer.php on line 2300
+2019-03-12 7:25:50 - PHP Notice:  Undefined index: description in F:\1_Work\Web_Work\lampeledning\catalog\controller\information\information.php on line 24
+2019-03-12 7:28:24 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 7:28:24 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:28:24 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:31:45 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 7:31:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:31:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:31:52 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 7:31:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:31:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:32:12 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 7:32:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:32:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:32:16 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 7:32:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 7:32:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 8:04:09 - PHP Warning:  mysqli::mysqli(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 7
+2019-03-12 8:04:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
+2019-03-12 8:04:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in F:\1_Work\Web_Work\lampeledning\system\library\db\mysqli.php on line 10
